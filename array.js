@@ -3,4 +3,5 @@ function isArray(number) {
     return r;
     
 }
-isArray([12,3,4,5,6,7,8,9]);
+ const c=isArray([12,3,4,5,6,7,8,9]);
+console.log(c);
