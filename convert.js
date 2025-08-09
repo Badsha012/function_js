@@ -34,3 +34,10 @@ const kill=mileTokill(34);
 console.log(kill);
 
 
+function kiloToMile(kilo) {
+    const r=kilo*0.6213;
+    return r;
+    
+}
+const killmeter=kiloToMile(55);
+console.log(killmeter);
