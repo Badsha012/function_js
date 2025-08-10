@@ -14,3 +14,6 @@ else{
 }
 
 //function
+
+const max=Math.max(12,1,5,99)
+console.log(max);
